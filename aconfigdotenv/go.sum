@@ -1,4 +1,4 @@
-github.com/xenking/aconfig v0.10.0 h1:5dyXjRkUBDuueSHFYxlLdxpZrnzGHwlffhL16NiT+XQ=
-github.com/xenking/aconfig v0.10.0/go.mod h1:0ZBp7dUf0F2Jr7YbLjw8OVlAD0eeV2bU3NwmVgeUReo=
 github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
 github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/xenking/aconfig v0.10.2 h1:41m5zwpo+Yp4zHIJpfnprkLHY4gZ75u8xM/nLjxuZyw=
+github.com/xenking/aconfig v0.10.2/go.mod h1:lWVF6A7YvAs+1r4q69OtK5nZ0VX9L93vilZ3Ndxxjqo=

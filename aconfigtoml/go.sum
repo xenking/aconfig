@@ -1,4 +1,4 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/xenking/aconfig v0.10.0 h1:5dyXjRkUBDuueSHFYxlLdxpZrnzGHwlffhL16NiT+XQ=
-github.com/xenking/aconfig v0.10.0/go.mod h1:0ZBp7dUf0F2Jr7YbLjw8OVlAD0eeV2bU3NwmVgeUReo=
+github.com/xenking/aconfig v0.10.2 h1:41m5zwpo+Yp4zHIJpfnprkLHY4gZ75u8xM/nLjxuZyw=
+github.com/xenking/aconfig v0.10.2/go.mod h1:lWVF6A7YvAs+1r4q69OtK5nZ0VX9L93vilZ3Ndxxjqo=
