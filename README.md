@@ -94,5 +94,5 @@ See [these docs][pkg-url].
 [pkg-url]: https://pkg.go.dev/github.com/xenking/aconfig
 [reportcard-img]: https://goreportcard.com/badge/xenking/aconfig
 [reportcard-url]: https://goreportcard.com/report/xenking/aconfig
-[coverage-img]: https://codecov.io/gh/xenking/aconfig/branch/master/graph/badge.svg
+[coverage-img]: https://codecov.io/gh/xenking/aconfig/branch/main/graph/badge.svg
 [coverage-url]: https://codecov.io/gh/xenking/aconfig
