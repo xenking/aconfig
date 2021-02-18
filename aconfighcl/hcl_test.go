@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cristalhq/aconfig"
-	"github.com/cristalhq/aconfig/aconfighcl"
+	"github.com/xenking/aconfig"
+	"github.com/xenking/aconfig/aconfighcl"
 )
 
 func TestHCL(t *testing.T) {

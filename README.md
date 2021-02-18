@@ -29,7 +29,7 @@ There are many solutions regarding configuration loading in Go. I was looking fo
 Go version 1.14+
 
 ```
-go get github.com/cristalhq/aconfig
+go get github.com/xenking/aconfig
 ```
 
 ## Example
@@ -76,7 +76,7 @@ if err := loader.Load(); err != nil {
 // 4. command-line flags with the prefix `app.` if they are 
 ```
 
-Also see examples: [examples_test.go](https://github.com/cristalhq/aconfig/blob/master/example_test.go).
+Also see examples: [examples_test.go](https://github.com/xenking/aconfig/blob/master/example_test.go).
 
 Integration with `spf13/cobra` [playground](https://play.golang.org/p/OsCR8qTCN0H).
 
@@ -88,11 +88,11 @@ See [these docs][pkg-url].
 
 [MIT License](LICENSE).
 
-[build-img]: https://github.com/cristalhq/aconfig/workflows/build/badge.svg
-[build-url]: https://github.com/cristalhq/aconfig/actions
-[pkg-img]: https://pkg.go.dev/badge/cristalhq/aconfig
-[pkg-url]: https://pkg.go.dev/github.com/cristalhq/aconfig
-[reportcard-img]: https://goreportcard.com/badge/cristalhq/aconfig
-[reportcard-url]: https://goreportcard.com/report/cristalhq/aconfig
-[coverage-img]: https://codecov.io/gh/cristalhq/aconfig/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/cristalhq/aconfig
+[build-img]: https://github.com/xenking/aconfig/workflows/build/badge.svg
+[build-url]: https://github.com/xenking/aconfig/actions
+[pkg-img]: https://pkg.go.dev/badge/xenking/aconfig
+[pkg-url]: https://pkg.go.dev/github.com/xenking/aconfig
+[reportcard-img]: https://goreportcard.com/badge/xenking/aconfig
+[reportcard-url]: https://goreportcard.com/report/xenking/aconfig
+[coverage-img]: https://codecov.io/gh/xenking/aconfig/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/xenking/aconfig

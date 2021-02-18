@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cristalhq/aconfig"
-	"github.com/cristalhq/aconfig/aconfigtoml"
+	"github.com/xenking/aconfig"
+	"github.com/xenking/aconfig/aconfigtoml"
 )
 
 func TestTOML(t *testing.T) {

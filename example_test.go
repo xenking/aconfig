@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cristalhq/aconfig"
+	"github.com/xenking/aconfig"
 )
 
 type MyConfig struct {

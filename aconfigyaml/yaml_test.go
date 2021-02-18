@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cristalhq/aconfig"
-	"github.com/cristalhq/aconfig/aconfigyaml"
+	"github.com/xenking/aconfig"
+	"github.com/xenking/aconfig/aconfigyaml"
 )
 
 func TestYAML(t *testing.T) {
